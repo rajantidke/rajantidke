@@ -2,7 +2,7 @@
 
 ---
 ### About Me
-**TL;DR:** Bioinformatics grad student at Georgia Tech working at the intersection of **ML, genomics, health informatics, and full-stack product development** — from single-cell RNA-seq pipelines to LLM-powered clinical apps. Previously spent 3 years as a consultant at **IQVIA**, driving predictive modeling for Fortune 100 pharma clients across Asia Pacific, the Middle East, and Europe.
+**TL;DR:** Bioinformatics grad student at Georgia Tech working at the intersection of **ML, genomics, health informatics, and full-stack product development**: from single-cell RNA-seq pipelines to LLM-powered clinical apps. Previously spent 3 years as a consultant at **IQVIA**, driving predictive modeling for Fortune 100 pharma clients across Asia Pacific, the Middle East, and Europe.
 
 <details>
 <summary>🐌 Click for the long-winded "Peter Parker to Spiderman" origin story </summary>
