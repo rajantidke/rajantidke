@@ -2,10 +2,10 @@
 
 ---
 ### About Me
-**TL;DR:** Bioinformatics graduate from Georgia Tech working at the intersection of **ML, genomics, health informatics, and full-stack product development**: from single-cell RNA-seq pipelines to LLM-powered clinical apps. Previously spent 3 years as a consultant at **IQVIA**, driving predictive modeling for Fortune 100 pharma clients across Asia Pacific, the Middle East, and Europe.
+**TL;DR:** Bioinformatics grad student at Georgia Tech working at the intersection of **ML, genomics, health informatics, and full-stack product development** — from single-cell RNA-seq pipelines to LLM-powered clinical apps. Previously spent 3 years as a consultant at **IQVIA**, driving predictive modeling for Fortune 100 pharma clients across Asia Pacific, the Middle East, and Europe.
 
 <details>
-<summary>🕸️ Click for the long-winded "Peter Parker to Spiderman" origin story </summary>
+<summary>🐌 Click for the long-winded "Peter Parker to Spiderman" origin story </summary>
 <br>
 
 When I read **Sapiens** during the COVID-19 pandemic of 2020, I was amused by Yuval Noah Harari's claim that humanity's perception of death had shifted from "a morbid inevitability" to "a technical problem" that must be solved. I suppose, if somebody did solve the problem of death and committed all their work onto github, it would end up being the repository with the highest pull and fork requests of all time! Fortunately or unfortunately so, both you and I are miles and lightyears behind that accomplishment, so good luck to the both of us for our contributions. But let's not forget, it took about **65000 years** for humans to go from wall paintings to papyrus scrolls, **3500 years** to go from papyrus scroll to Gutenberg's printing press, and only about **500 years** from the printing press to the e-mail. So within our lifetimes, somebody might very well solve this problem of death and we will be the stupid ones who laughed at that idea. 😝
@@ -102,29 +102,64 @@ ML pipelines combining transformers, graph neural networks, and molecular finger
 </tr>
 </table>
 
-Feel free to check out the repositories of my [Projects](https://github.com/rajantidke?tab=repositories)!
+Feel free to check out more of my [Projects](https://github.com/rajantidke?tab=repositories)!
 
 ---
 ### 💼 Experience Highlights
-- **Associate Consultant / Analyst, IQVIA** (2021–2024): Led 50+ consulting engagements for Fortune 100 pharma clients; built Python-based forecasting engines (AutoARIMA, Prophet, Croston) that cut runtime by 75%; developed CNN and ensemble-model (Random Forest, XGBoost) solutions for patient cohort detection and HCP segmentation.
+- **Associate Consultant / Analyst, IQVIA** (2021–2024) — Led 50+ consulting engagements for Fortune 100 pharma clients; built Python-based forecasting engines (AutoARIMA, Prophet, Croston) that cut runtime by 75%; developed CNN and ensemble-model (Random Forest, XGBoost) solutions for patient cohort detection and HCP segmentation.
 
 ---
 ### 🧰 Tech Stack
 
-**Languages:** R · Python · SQL · Bash · C++
+**👨‍💻 Languages**
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-**ML/Data:** scikit-learn, XGBoost, CNNs, GNNs, Transformers (ProtBERT), Seurat, Scanpy, scvi-tools, RDKit
+**🧬 ML / Bioinformatics**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2C7FB8?style=for-the-badge&logo=xgboost&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Tools & Platforms:** AWS, Google Cloud Platform, Snowflake, MySQL, SQLite, Hadoop, Spark, Vercel, Git/GitHub, CI/CD, Tableau, Power BI, Alteryx
+**☁️ Cloud & Platforms**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 
-**Web/App:** React, Vite, TypeScript, Tailwind CSS, D3.js, Dash, Recharts
+**🗃️ Databases**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**📊 Analytics & BI**
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white)
+
+**🌐 Web / App Development**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+
+**⚙️ Tools & Version Control**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 ### 🌱 Currently Exploring
 Deepening my work in **Clinical Health Informatics**, **LLM-driven clinical tooling**, and **scalable bioinformatics pipelines**.
 
 ---
-### ☎️ How to Reach Me
+### 📫 How to Reach Me
 - Email: [rajan.tidke.7@gmail.com](mailto:rajan.tidke.7@gmail.com)
 - LinkedIn: [linkedin.com/in/rajan-ranjeet-tidke](https://www.linkedin.com/in/rajan-ranjeet-tidke-68347823a/)
 - GitHub: [github.com/rajantidke](https://github.com/rajantidke)
