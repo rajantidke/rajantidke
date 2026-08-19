@@ -21,25 +21,88 @@ So far, I have worked at the intersection of **ML, genomics, health informatics,
 ---
 ### 🔭 Key Projects
 
-- **Machine Learning Driven Immune Cell-Type Classifier** (Tech Stack: R (Seurat), Python, scikit-learn, cuML, NVIDIA H200 GPUs):
+<table>
+<tr>
+<td>
+
+<details>
+<summary><b>Machine Learning Driven Immune Cell-Type Classifier</b> [CLICK]</summary>
+<br>
+
+*Tech Stack: R (Seurat), Python, scikit-learn, cuML, NVIDIA H200 GPUs*
+
 An End-to-end classification system trained on a gold-standard scRNA-seq dataset of 76,893 labeled PBMC samples. Benchmarked seven supervised models and implemented a HyperSMURF-boosted Random Forest to handle severe class imbalance across 14 immune cell subtypes, reaching 86% classification accuracy, validated against biological clusters via UMAP/t-SNE.
 
-- **Integrated Single-Cell Analysis and Visualization Software** (Tech Stack: Python, Scanpy, scvi-tools, Dash, D3.js, WebGL):
+</details>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<details>
+<summary><b>Integrated Single-Cell Analysis and Visualization Software</b> [CLICK]</summary>
+<br>
+
+*Tech Stack: Python, Scanpy, scvi-tools, Dash, D3.js, WebGL*
+
 An end-to-end pipeline processing 100,000+ single cells in under 20 minutes, with Leiden clustering, batch correction, and a scalable interactive dashboard for real-time 2D/3D exploration of gene expression clusters. Deployed for beta testing with 30+ student researchers.
 
-- **Maternal Health Interface (LLM + FHIR Pipeline)** (Tech Stack: React, Vite, TypeScript, Tailwind CSS, OpenRouter API, Vercel):
+</details>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<details>
+<summary><b>Maternal Health Interface (LLM + FHIR Pipeline)</b> [CLICK]</summary>
+<br>
+
+*Tech Stack: React, Vite, TypeScript, Tailwind CSS, OpenRouter API, Vercel*
+
 A full-stack, patient-facing prenatal monitoring web app with a clinically-mapped weekly check-in (LOINC/SNOMED CT coded), an LLM inference pipeline generating FHIR R4-compliant Observation resources, and a longitudinal vitals dashboard built with Recharts, deployed via CI/CD on Vercel.
 (Github transfer from official Gatech github, in progress)
 
-- **Product Analytics and SQL Engineering — Audio Streaming Service** (Tech Stack: MySQL, EERD Modeling, SQL Views):
+</details>
+
+</td>
+</tr>
+<tr>
+<td>
+
+<details>
+<summary><b>Product Analytics and SQL Engineering — Audio Streaming Service</b> [CLICK]</summary>
+<br>
+
+*Tech Stack: MySQL, EERD Modeling, SQL Views*
+
 Designed a normalized relational schema of 20+ tables for a high-concurrency streaming platform, enforcing business rules via foreign key cascades and check constraints, and built 10+ complex SQL views for real-time KPI monitoring.
 (Github transfer from official Gatech github, in progress)
 
-- **UMAMIT Protein Substrate Specificity Prediction** *(Graduate Research, Plant Systems and Synthetic Biology Lab)* (Tech Stack: ProtBERT-BFD, GNNs, XGBoost, RDKit)
-  ML pipelines combining transformers, graph neural networks, and molecular fingerprinting to predict substrate specificity of UMAMIT proteins, achieving 89.96% prediction accuracy and guiding in vitro validation for drug discovery.
-  (Github transfer from official Gatech github, in progress)
+</details>
 
-Feel free to check out more of my [Projects](https://github.com/rajantidke?tab=repositories)!
+</td>
+</tr>
+<tr>
+<td>
+
+<details>
+<summary><b>UMAMIT Protein Substrate Specificity Prediction *(Graduate Research, Plant Systems and Synthetic Biology Lab)*</b> [CLICK]</summary>
+<br>
+
+*Tech Stack: ProtBERT-BFD, GNNs, XGBoost, RDKit*
+
+ML pipelines combining transformers, graph neural networks, and molecular fingerprinting to predict substrate specificity of UMAMIT proteins, achieving 89.96% prediction accuracy and guiding in vitro validation for drug discovery.
+(Github transfer from official Gatech github, in progress)
+
+</details>
+
+</td>
+</tr>
+</table>
+
+Feel free to check out the repositories of my [Projects](https://github.com/rajantidke?tab=repositories)!
 
 ---
 ### 💼 Experience Highlights
