@@ -2,7 +2,7 @@
 
 ---
 ### About Me
-**TL;DR:** Bioinformatics grad student at Georgia Tech working at the intersection of **ML, genomics, health informatics, and full-stack product development** — from single-cell RNA-seq pipelines to LLM-powered clinical apps. Previously spent 3 years as a consultant at **IQVIA**, driving predictive modeling for Fortune 100 pharma clients across Asia Pacific, the Middle East, and Europe.
+**TL;DR:** Bioinformatics grad student at Georgia Tech working at the intersection of **ML, genomics, health informatics, and full-stack product development**, from single-cell RNA-seq pipelines to LLM-powered clinical apps. Previously spent 3 years as a consultant at **IQVIA**, driving predictive modeling for Fortune 100 pharma clients across Asia Pacific, the Middle East, and Europe.
 
 <details>
 <summary>🐌 Click for the long-winded "Peter Parker to Spiderman" origin story </summary>
@@ -72,7 +72,7 @@ A full-stack, patient-facing prenatal monitoring web app with a clinically-mappe
 <td>
 
 <details>
-<summary><b>Product Analytics and SQL Engineering — Audio Streaming Service</b> [CLICK]</summary>
+<summary><b>Product Analytics and SQL Engineering (Audio Streaming Service)</b> [CLICK]</summary>
 <br>
 
 *Tech Stack: MySQL, EERD Modeling, SQL Views*
@@ -88,7 +88,7 @@ Designed a normalized relational schema of 20+ tables for a high-concurrency str
 <td>
 
 <details>
-<summary><b>UMAMIT Protein Substrate Specificity Prediction *(Graduate Research, Plant Systems and Synthetic Biology Lab)*</b> [CLICK]</summary>
+<summary><b>UMAMIT Protein Substrate Specificity Prediction (Graduate Research, Plant Systems and Synthetic Biology Lab)</b> [CLICK]</summary>
 <br>
 
 *Tech Stack: ProtBERT-BFD, GNNs, XGBoost, RDKit*
@@ -106,7 +106,7 @@ Feel free to check out more of my [Projects](https://github.com/rajantidke?tab=r
 
 ---
 ### 💼 Experience Highlights
-- **Associate Consultant / Analyst, IQVIA** (2021–2024) — Led 50+ consulting engagements for Fortune 100 pharma clients; built Python-based forecasting engines (AutoARIMA, Prophet, Croston) that cut runtime by 75%; developed CNN and ensemble-model (Random Forest, XGBoost) solutions for patient cohort detection and HCP segmentation.
+- **Associate Consultant / Analyst, IQVIA** (2021–2024): Led 50+ consulting engagements for Fortune 100 pharma clients; built Python-based forecasting engines (AutoARIMA, Prophet, Croston) that cut runtime by 75%; developed CNN and ensemble-model (Random Forest, XGBoost) solutions for patient cohort detection and HCP segmentation.
 
 ---
 ### 🧰 Tech Stack
