@@ -111,6 +111,10 @@ Feel free to check out more of my [Projects](https://github.com/rajantidke?tab=r
 ---
 ### 🧰 Tech Stack
 
+<table>
+<tr>
+<td>
+
 **👨‍💻 Languages**
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -119,6 +123,11 @@ Feel free to check out more of my [Projects](https://github.com/rajantidke?tab=r
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+</td>
+</tr>
+<tr>
+<td>
+
 **🧬 ML / Bioinformatics**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -126,6 +135,11 @@ Feel free to check out more of my [Projects](https://github.com/rajantidke?tab=r
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td>
 
 **☁️ Cloud & Platforms**
 
@@ -136,16 +150,31 @@ Feel free to check out more of my [Projects](https://github.com/rajantidke?tab=r
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 
+</td>
+</tr>
+<tr>
+<td>
+
 **🗃️ Databases**
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td>
 
 **📊 Analytics & BI**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td>
 
 **🌐 Web / App Development**
 
@@ -155,11 +184,20 @@ Feel free to check out more of my [Projects](https://github.com/rajantidke?tab=r
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
+</td>
+</tr>
+<tr>
+<td>
+
 **⚙️ Tools & Version Control**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 ### 🌱 Currently Exploring
