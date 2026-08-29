@@ -46,7 +46,7 @@ An End-to-end classification system trained on a gold-standard scRNA-seq dataset
 
 *Tech Stack: Python, Scanpy, scvi-tools, Dash, D3.js, WebGL*
 
-An end-to-end pipeline processing 100,000+ single cells in under 20 minutes, with Leiden clustering, batch correction, and a scalable interactive dashboard for real-time 2D/3D exploration of gene expression clusters. Deployed for beta testing with 30+ student researchers.
+An end-to-end pipeline processing 100,000+ single cells in under 20 minutes, with Leiden clustering, batch correction, and a scalable interactive dashboard for real-time 2D/3D exploration of gene expression clusters. Deployed for beta testing with 30+ student researchers. [Repo](https://github.com/rajantidke/single_cell_int_viz)
 
 </details>
 
