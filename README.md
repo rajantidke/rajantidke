@@ -31,7 +31,7 @@ So far, I have worked at the intersection of **ML, genomics, health informatics,
 
 *Tech Stack: R (Seurat), Python, scikit-learn, cuML, NVIDIA H200 GPUs*
 
-An End-to-end classification system trained on a gold-standard scRNA-seq dataset of 76,893 labeled PBMC samples. Benchmarked seven supervised models and implemented a HyperSMURF-boosted Random Forest to handle severe class imbalance across 14 immune cell subtypes, reaching 86% classification accuracy, validated against biological clusters via UMAP/t-SNE.
+An End-to-end classification system trained on a gold-standard scRNA-seq dataset of 76,893 labeled PBMC samples. Benchmarked seven supervised models and implemented a HyperSMURF-boosted Random Forest to handle severe class imbalance across 14 immune cell subtypes, reaching 86% classification accuracy, validated against biological clusters via UMAP/t-SNE. [Repo](https://github.com/rajantidke/ML_immune_cell_type_classifier)
 
 </details>
 
