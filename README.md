@@ -6,7 +6,7 @@ MSBINF Graduate from Georgia Tech, working at the intersection of **Machine Lear
 
 ---
 ### 💼 Professional Experience Highlights
-- **Associate Consultant / Analyst, IQVIA** (2021–2024): Led 50+ consulting engagements for Fortune 100 pharma clients; spearheaded MMx and responsiveness models driving $5 M+ in revenue within a 15 month window; built Python-based forecasting engines (AutoARIMA, Prophet, Croston) that cut runtime by 75%; developed CNN and ensemble-model (Random Forest, XGBoost) solutions for patient cohort detection and HCP segmentation.
+- **Associate Consultant / Analyst, IQVIA** (2021–2024): Led 50+ consulting engagements for Fortune 100 pharma clients; spearheaded Market Mix and HCP responsiveness models driving **$5M+** in revenue within a 15 month window; built Python-based forecasting engines (AutoARIMA, Prophet, Croston) that cut runtime by 75%; developed CNN and ensemble-model (Random Forest, XGBoost) solutions for patient cohort detection and HCP segmentation.
 
   **TL;DR:**
 <details>
