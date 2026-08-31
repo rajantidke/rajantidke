@@ -2,10 +2,17 @@
 
 ---
 ### About Me
-**TL;DR:** Bioinformatics grad student at Georgia Tech working at the intersection of **ML, genomics, health informatics, and full-stack product development**, from single-cell RNA-seq pipelines to LLM-powered clinical apps. Previously spent 3 years as a consultant at **IQVIA**, driving predictive modeling for Fortune 100 pharma clients across Asia Pacific, the Middle East, and Europe.
+MSBINF Graduate from Georgia Tech, working at the intersection of **Machine Learning, genomics, health informatics, full-stack product development, analytics and management consulting**, from single-cell RNA-seq pipelines to LLM-powered clinical apps. Previously spent 3 years as a consultant at **IQVIA**, driving predictive modeling for Fortune 100 pharma clients across Asia Pacific, the Middle East, and Europe.
 
+---
+### 💼 Professional Experience Highlights
+- **Associate Consultant / Analyst, IQVIA** (2021–2024): Led 50+ consulting engagements for Fortune 100 pharma clients; spearheaded MMx and responsiveness models driving $5 M+ in revenue within a 15 month window; built Python-based forecasting engines (AutoARIMA, Prophet, Croston) that cut runtime by 75%; developed CNN and ensemble-model (Random Forest, XGBoost) solutions for patient cohort detection and HCP segmentation.
+
+  **TL;DR:**
 <details>
-<summary>🐌 Click for the long-winded "Peter Parker to Spiderman" origin story </summary>
+
+
+<summary>🐌  Click for the long-winded "Peter Parker to Spiderman" origin story </summary>
 <br>
 
 When I read **Sapiens** during the COVID-19 pandemic of 2020, I was amused by Yuval Noah Harari's claim that humanity's perception of death had shifted from "a morbid inevitability" to "a technical problem" that must be solved. I suppose, if somebody did solve the problem of death and committed all their work onto github, it would end up being the repository with the highest pull and fork requests of all time! Fortunately or unfortunately so, both you and I are miles and lightyears behind that accomplishment, so good luck to the both of us for our contributions. But let's not forget, it took about **65000 years** for humans to go from wall paintings to papyrus scrolls, **3500 years** to go from papyrus scroll to Gutenberg's printing press, and only about **500 years** from the printing press to the e-mail. So within our lifetimes, somebody might very well solve this problem of death and we will be the stupid ones who laughed at that idea. 😝
@@ -104,9 +111,7 @@ ML pipelines combining transformers, graph neural networks, and molecular finger
 
 Feel free to check out more of my [Projects](https://github.com/rajantidke?tab=repositories)!
 
----
-### 💼 Experience Highlights
-- **Associate Consultant / Analyst, IQVIA** (2021–2024): Led 50+ consulting engagements for Fortune 100 pharma clients; built Python-based forecasting engines (AutoARIMA, Prophet, Croston) that cut runtime by 75%; developed CNN and ensemble-model (Random Forest, XGBoost) solutions for patient cohort detection and HCP segmentation.
+
 
 ---
 ### 🧰 Tech Stack
