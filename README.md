@@ -80,7 +80,7 @@ A full-stack, patient-facing prenatal monitoring web app with a clinically-mappe
 <td>
 
 <details>
-<summary><b>Product Analytics and SQL Engineering (Audio Streaming Service)</b> [CLICK]</summary>
+<summary><b>Product Analytics and SQL Engineering (Media Streaming Service)</b> [CLICK]</summary>
 <br>
 
 *Tech Stack: MySQL, EERD Modeling, SQL Views*
